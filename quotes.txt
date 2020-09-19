@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Change is the only constant in life
+The way to get started is to quit talking and begin doing
+Adding new quote
